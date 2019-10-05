@@ -1,0 +1,46 @@
+body, html {
+    height: 100%;
+    text-align: center;
+  }
+  
+  body { 
+    /* The image used */
+    background-image: url("kenrick-mills-728501-unsplash.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .maxform
+  {
+    margin: auto;
+    max-width: 350px;
+  }
+
+  .WeatherContainer
+  {
+    padding: 15%;
+  }
+  
+  .emailInput
+  {
+    margin-bottom: 25px;
+  }
+
+  .welcomeHeading
+  {
+      font-size: 4rem;
+      font-weight: bolder;
+      margin-bottom: 35px;
+  }
+
+  .weather
+  {
+    padding-left: 15%;
+    padding-right: 15%;
+  }
